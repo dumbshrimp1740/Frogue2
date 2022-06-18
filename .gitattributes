@@ -3,3 +3,4 @@
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.blend filter=lfs diff=lfs merge=lfs -text
 Билдящийся[[:space:]]проект.zip filter=lfs diff=lfs merge=lfs -text
+Р‘РёР»РґСЏС‰РёР№СЃСЏ[[:space:]]РїСЂРѕРµРєС‚.zip filter=lfs diff=lfs merge=lfs -text
